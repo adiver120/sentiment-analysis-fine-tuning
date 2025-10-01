@@ -1,0 +1,7 @@
+# .gitattributes
+*.py text
+*.ipynb text
+*.md text
+*.txt text
+*.json text
+*.py text eol=lf
