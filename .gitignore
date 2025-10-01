@@ -2,9 +2,7 @@
 
 # Virtual environment
 myenv/
-venv/
-env/
-ENV/
+
 
 # Model files
 models/
@@ -36,7 +34,7 @@ wheels/
 
 # Jupyter
 .ipynb_checkpoints/
-# *.ipynb
+
 
 # IDE
 .vscode/

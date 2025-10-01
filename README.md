@@ -4,7 +4,7 @@ A complete Python project for fine-tuning transformer models for sentiment analy
 
 ## 🚀 Features
 
-- Fine-tune DistilBERT, BERT, or RoBERTa for sentiment analysis
+- Fine-tune DistilBERT for sentiment analysis
 - Complete training pipeline with data preprocessing
 - Model evaluation and visualization
 - Production-ready inference
